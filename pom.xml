@@ -5,7 +5,7 @@
   <artifactId>Spring5Core</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Spring5Core Maven jar</name>
+  <name>Spring5Core Maven jar example</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   
